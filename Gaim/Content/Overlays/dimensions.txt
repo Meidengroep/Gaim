@@ -1,0 +1,6 @@
+engine : 75 x 400
+shield / health : 100 x 300
+assets : 125 x 400, 125 x 100 each
+level : 200 x 100
+shield / health bar : 40 x 260
+engine bar : 30 x 360

@@ -1,0 +1,6 @@
+Basic
+4
+RearMissile
+3
+ABomb
+ABomb

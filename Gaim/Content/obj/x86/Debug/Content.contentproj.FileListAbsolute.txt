@@ -1,0 +1,6 @@
+C:\Users\Joey Deiman\Documents\Visual Studio 2008\Projects\Gaim\Gaim\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\Content\obj\x86\Debug\ResolveAssemblyReference.cache

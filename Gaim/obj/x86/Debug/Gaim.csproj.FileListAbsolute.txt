@@ -1,0 +1,933 @@
+C:\Users\Joey Deiman\Documents\Visual Studio 2008\Projects\Gaim\Gaim\bin\x86\Debug\Gaim.exe
+C:\Users\Joey Deiman\Documents\Visual Studio 2008\Projects\Gaim\Gaim\bin\x86\Debug\Gaim.pdb
+C:\Users\Joey Deiman\Documents\Visual Studio 2008\Projects\Gaim\Gaim\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joey Deiman\Documents\Visual Studio 2008\Projects\Gaim\Gaim\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joey Deiman\Documents\Visual Studio 2008\Projects\Gaim\Gaim\obj\x86\Debug\Gaim.exe
+C:\Users\Joey Deiman\Documents\Visual Studio 2008\Projects\Gaim\Gaim\obj\x86\Debug\Gaim.pdb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Gaim.exe
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Gaim.pdb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\obj\x86\Debug\Gaim.exe
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\obj\x86\Debug\Gaim.pdb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Player\left.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Player\right.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Player\straight.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\alt.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\main.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec1.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec3.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec4.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire1.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire3.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire4.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Vlammenwerper.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Save\Weapons.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L1\0.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L1\1.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L1\2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L1\3.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Announcementbar.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Sidebar.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Testfont.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\left.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\right.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\straight.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Player\left.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Player\right.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Player\straight.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\alt.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\main.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec1.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec3.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec4.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire1.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire3.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire4.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Vlammenwerper.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Announcementbar.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Sidebar.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\left.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\right.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\straight.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Testfont.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Save\Weapons.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Gaim.exe
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Gaim.pdb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\obj\x86\Debug\Gaim.exe
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\obj\x86\Debug\Gaim.pdb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Laser.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Enginebar.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Shieldbar.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Structurebar.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\left.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\right.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\straight.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star1.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star3.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Gaim.exe.manifest
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Gaim.application
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\obj\x86\Debug\Gaim.exe.manifest
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\obj\x86\Debug\Gaim.application
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Rocket.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Sidekicks\Tard.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Overlays\splash.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exitoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exiton.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Save\Newgame.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Overlays\mainmenu.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Cursor.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextleveloff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextlevelon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Overlays\home.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Player\left.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Player\right.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Player\straight.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\alt.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\main.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec1.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec3.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec4.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire1.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire3.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire4.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Vlammenwerper.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L1\0.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L1\1.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L1\2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L1\3.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Announcementbar.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Sidebar.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Laser.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Enginebar.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Shieldbar.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Structurebar.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Enemies\Tard.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star1.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star3.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Rocket.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\splash.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exitoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exiton.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\mainmenu.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Cursor.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextleveloff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextlevelon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\home.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\left.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\right.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\straight.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\left.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\right.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\straight.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Sidekicks\Tard.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Testfont.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Save\Newgame.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Save\Weapons.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Gaim.exe.manifest
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Gaim.application
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Gaim.exe
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\bin\x86\Debug\Gaim.pdb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\obj\x86\Debug\Gaim.exe.manifest
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\obj\x86\Debug\Gaim.application
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\obj\x86\Debug\Gaim.exe
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\obj\x86\Debug\Gaim.pdb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Laser.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Enginebar.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Shieldbar.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Structurebar.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Enemies\Tard.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star1.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star3.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Rocket.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Overlays\splash.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exitoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exiton.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Overlays\mainmenu.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Cursor.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextleveloff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextlevelon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Overlays\home.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\left.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\right.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\straight.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Sidekicks\Tard.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Save\Newgame.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Gaim.exe.manifest
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Gaim.application
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\obj\x86\Debug\Gaim.exe.manifest
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\obj\x86\Debug\Gaim.application
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke1.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke3.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Minigun.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Icons\empty.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Save\Player.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierLow.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierMedium.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\bin\x86\Debug\Content\Enemies\Target.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Icons\empty.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke1.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke3.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Minigun.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierLow.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierMedium.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Save\Player.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\0.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\1.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\3.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Levels\0.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Tard.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Target.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion1.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\left.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\right.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\straight.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\alt.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\main.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec1.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec3.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec4.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire1.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire3.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire4.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Vlammenwerper.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\0.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\1.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\3.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Announcementbar.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Sidebar.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Laser.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Enginebar.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Shieldbar.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Structurebar.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Tard.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star1.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star3.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Rocket.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\splash.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exitoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exiton.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\mainmenu.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Cursor.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextleveloff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextlevelon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\home.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\empty.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\left.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\right.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\straight.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\left.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\right.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\straight.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke1.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke3.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Minigun.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponoff.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponon.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierLow.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierMedium.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion1.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion2.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Sidekicks\Tard.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Testfont.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\Newgame.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\Player.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\Weapons.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.exe.manifest
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.application
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.exe
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.pdb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.exe.manifest
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.application
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.exe
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.pdb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\AnimatieTest.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\bin\x86\Debug\Content\AnimatieTest.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Music\LowerAfterlifeBgm.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Music\LowerAfterlifeBgm.wma
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\PlayerTemp.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\WeaponsTemp.txt
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Boss.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\BossHealthBar.xnb
+C:\Users\Joey Deiman\Desktop\bende2\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\ballBullet.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\left.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\right.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\straight.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\alt.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\main.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec1.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec3.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec4.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire1.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire3.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire4.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Vlammenwerper.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\0.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\1.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\3.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Announcementbar.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Sidebar.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Laser.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Enginebar.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Shieldbar.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Structurebar.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Tard.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star1.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star3.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Rocket.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\splash.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exitoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exiton.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\mainmenu.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Cursor.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextleveloff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextlevelon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\home.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\empty.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\left.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\right.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\straight.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\left.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\right.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\straight.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke1.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke3.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Minigun.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponoff.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponon.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierLow.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierMedium.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Boss.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion1.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion2.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\AnimatieTest.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\BossHealthBar.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\ballBullet.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Sidekicks\Tard.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Music\LowerAfterlifeBgm.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Testfont.xnb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Music\LowerAfterlifeBgm.wma
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\Newgame.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\Player.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\Weapons.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Levels\0.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\PlayerTemp.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\WeaponsTemp.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.exe.manifest
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.application
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.exe
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.pdb
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.exe.manifest
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.application
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.exe
+C:\Documents and Settings\Joey Deiman\Bureaublad\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.pdb
+D:\spul\Gaim\Gaim\Gaim\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\spul\Gaim\Gaim\Gaim\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\spul\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.exe
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\left.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\right.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\straight.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\alt.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\main.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec1.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec2.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec3.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec4.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire1.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire2.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire3.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire4.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Vlammenwerper.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\0.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\1.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\2.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\3.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Announcementbar.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Sidebar.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Laser.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Enginebar.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Shieldbar.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Structurebar.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Tard.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star1.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star2.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star3.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol2.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Rocket.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\splash.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exitoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exiton.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\mainmenu.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Cursor.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextleveloff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextlevelon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\home.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\empty.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\left.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\right.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\straight.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\left.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\right.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\straight.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke1.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke2.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke3.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Minigun.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponoff.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponon.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierLow.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierMedium.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Boss.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion1.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion2.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\AnimatieTest.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\BossHealthBar.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\ballBullet.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Sidekicks\Tard.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Music\LowerAfterlifeBgm.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Testfont.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Music\LowerAfterlifeBgm.wma
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix.txt
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2.txt
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\Newgame.txt
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\Player.txt
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\Weapons.txt
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Levels\0.txt
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\PlayerTemp.txt
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\WeaponsTemp.txt
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.exe.manifest
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.application
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.exe
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.pdb
+D:\spul\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.exe.manifest
+D:\spul\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.application
+D:\spul\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.pdb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\UpgradeMenu.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Enemies\-1\Tard.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Enemies\-1\Boss.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Levels\-1.txt
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\0.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\1.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\2.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\3.xnb
+D:\spul\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\LaserLong.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\left.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\right.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\straight.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\alt.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\main.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec1.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec3.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec4.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire1.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire3.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire4.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Vlammenwerper.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\0.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\1.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\3.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Announcementbar.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Sidebar.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Laser.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Enginebar.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Shieldbar.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Structurebar.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Tard.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star1.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star3.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Rocket.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\splash.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exitoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exiton.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\mainmenu.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Cursor.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextleveloff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextlevelon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\home.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\empty.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\left.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\right.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\straight.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\left.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\right.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\straight.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke1.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke3.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Minigun.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponoff.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponon.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierLow.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierMedium.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Boss.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion1.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\AnimatieTest.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\BossHealthBar.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\ballBullet.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Overlays\UpgradeMenu.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Enemies\-1\Tard.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Enemies\-1\Boss.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\0.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\1.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\2.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\3.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Sidekicks\Tard.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Bullets\LaserLong.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Music\LowerAfterlifeBgm.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Testfont.xnb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Music\LowerAfterlifeBgm.wma
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\Newgame.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\Player.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\Weapons.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\PlayerTemp.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Save\WeaponsTemp.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Levels\-1.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.exe.manifest
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.application
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.exe
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\bin\x86\Debug\Gaim.pdb
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.exe.manifest
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.application
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.exe
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.pdb
+F:\Jaar 2 uni\troep\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.csprojResolveAssemblyReference.cache
+F:\Jaar 2 uni\troep\Gaim\Gaim\Gaim\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Jaar 2 uni\troep\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.exe
+F:\Jaar 2 uni\troep\Gaim\Gaim\Gaim\obj\x86\Debug\Gaim.pdb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\obj\x86\Debug\Gaim.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\obj\x86\Debug\Gaim.exe
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\obj\x86\Debug\Gaim.pdb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Player\left.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Player\right.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Player\straight.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\alt.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\main.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec1.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec2.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec3.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec4.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire1.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire2.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire3.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire4.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Vlammenwerper.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\0.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\1.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\2.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\3.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Announcementbar.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Sidebar.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Laser.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Enginebar.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Shieldbar.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Structurebar.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Tard.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star1.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star2.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star3.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol2.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Rocket.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\splash.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exitoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exiton.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\mainmenu.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Cursor.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextleveloff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextlevelon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\home.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Icons\empty.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\left.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\right.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\straight.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\left.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\right.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\straight.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke1.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke2.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke3.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Minigun.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponoff.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponon.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierLow.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierMedium.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Boss.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion1.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion2.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\AnimatieTest.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\BossHealthBar.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\ballBullet.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Overlays\UpgradeMenu.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Enemies\-1\Tard.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Enemies\-1\Boss.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\0.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\1.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\2.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\3.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Sidekicks\Tard.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Bullets\LaserLong.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Music\LowerAfterlifeBgm.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Testfont.xnb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Music\LowerAfterlifeBgm.wma
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Save\Newgame.txt
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Save\Player.txt
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Save\Weapons.txt
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Save\PlayerTemp.txt
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Save\WeaponsTemp.txt
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Levels\-1.txt
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix.txt
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2.txt
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Gaim.exe.manifest
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Gaim.application
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Gaim.exe
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\bin\x86\Debug\Gaim.pdb
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\obj\x86\Debug\Gaim.exe.manifest
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\obj\x86\Debug\Gaim.application
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Player\left.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Player\right.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Player\straight.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\alt.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Player\Bullets\main.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec1.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec2.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec3.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\Elec\Elec4.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire1.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire2.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire3.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\Fire\Fire4.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Vlammenwerper.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\0.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\1.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\2.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L0\3.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Announcementbar.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Sidebar.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Laser.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Enginebar.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Shieldbar.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Overlays\Structurebar.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Tard.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star1.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star2.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\Starimpact\star3.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Bullets\lol2.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Rocket.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Overlays\splash.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exitoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\exiton.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\loadon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\newon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Overlays\mainmenu.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Cursor.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\mainmenuon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextleveloff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\nextlevelon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\saveon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\upgradeshipon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Overlays\home.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\engineon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\leftsidekickon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rearweaponon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\rightsidekickon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shieldon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\shiptypeon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Icons\empty.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\left.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\right.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2\straight.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\left.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\right.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix\straight.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke1.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke2.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Particles\FireSmoke\firesmoke3.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Bullets\Minigun.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponoff.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Buttons\frontweaponon.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierLow.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Icons\CBarrierMedium.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Enemies\0\Boss.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion1.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Icons\StandardMicrofusion2.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\AnimatieTest.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Overlays\BossHealthBar.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Bullets\ballBullet.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Overlays\UpgradeMenu.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Enemies\-1\Tard.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Enemies\-1\Boss.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\0.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\1.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\2.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Backgrounds\L-1\3.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Sidekicks\Tard.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Bullets\LaserLong.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Music\LowerAfterlifeBgm.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Testfont.xnb
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Music\LowerAfterlifeBgm.wma
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Save\Newgame.txt
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Save\Player.txt
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Save\Weapons.txt
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Levels\0.txt
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Save\PlayerTemp.txt
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Save\WeaponsTemp.txt
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Levels\-1.txt
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Ships\Phoenix.txt
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Content\Ships\Test2.txt
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Gaim.exe.manifest
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Gaim.application
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Gaim.exe
+B:\Portfolio\Gaim\Gaim\bin\x86\Debug\Gaim.pdb
+B:\Portfolio\Gaim\Gaim\obj\x86\Debug\Gaim.csprojResolveAssemblyReference.cache
+B:\Portfolio\Gaim\Gaim\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+B:\Portfolio\Gaim\Gaim\obj\x86\Debug\Gaim.exe.manifest
+B:\Portfolio\Gaim\Gaim\obj\x86\Debug\Gaim.application
+B:\Portfolio\Gaim\Gaim\obj\x86\Debug\Gaim.exe
+B:\Portfolio\Gaim\Gaim\obj\x86\Debug\Gaim.pdb

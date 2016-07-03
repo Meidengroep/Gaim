@@ -1,0 +1,6 @@
+Laser
+5
+Flamethrower
+5
+ABomb
+ABomb

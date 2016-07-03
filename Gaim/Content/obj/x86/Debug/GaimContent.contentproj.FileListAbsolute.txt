@@ -1,0 +1,5 @@
+D:\spul\Gaim\Gaim\Gaim\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joey Deiman\Desktop\Gaim\Gaim\Gaim\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Jaar 2 uni\troep\Gaim\Gaim\Gaim\Content\obj\x86\Debug\GaimContent.contentprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Gaim\Gaim\Content\obj\x86\Debug\GaimContent.contentprojResolveAssemblyReference.cache
+B:\Portfolio\Gaim\Gaim\Content\obj\x86\Debug\GaimContent.contentprojResolveAssemblyReference.cache

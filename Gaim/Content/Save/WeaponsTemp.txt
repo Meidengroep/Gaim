@@ -1,0 +1,6 @@
+Basic
+1
+Flamethrower
+3
+ABomb
+ABomb
